@@ -153,6 +153,6 @@ Félicitations ! Votre Cozy n’a désormais plus de secret pour vous.
 
 Notre équipe support se tient à votre disposition pour toute autre question. Visitez notre page Aide en ligne sur le site cozy.io.
 
-Venez également nous dire bonjour sur [Twitter](https://twitter.com/mycozycloud/) et [Facebook](https://www.facebook.com/mycozycloud/).
+Venez également nous dire bonjour sur [Twitter](https://twitter.com/cozycloud/) et [Facebook](https://www.facebook.com/mycozycloud/).
 
 
